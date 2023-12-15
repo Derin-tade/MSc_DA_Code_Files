@@ -1,0 +1,16 @@
+S/N,Column Name,Variable Type
+1,Age,Discrete
+2,Type of Contact,Nominal
+3,City Tier,Ordinal
+4,Occupation,Nominal
+5,Gender,Nominal
+6,Number Of Person Visiting,Discrete
+7,Number Of Follow-ups,Discrete
+8,Preferred Property Star,Ordinal
+9,Marital Status,Nominal
+10,Passport,Nominal
+11,PitchSatisfactionScore,Ordinal
+12,Own Car,Nominal
+13,Number Of Children Visiting,Discrete
+14,Income,Continuous
+15,Number Of Trips,Discrete 
