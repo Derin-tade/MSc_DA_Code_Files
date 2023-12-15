@@ -1,0 +1,24 @@
+,ID,Age,TypeofContact,CityTier,Occupation,Gender,NumberOfPersonVisiting,NumberOfFollowups,PreferredPropertyStar,MaritalStatus,Passport,PitchSatisfactionScore,OwnCar,NumberOfChildrenVisiting,Income,NumberOfTrips
+1,386,30,Company Invited,1,Large Business,Male,2,3,3,Single,1,4,1,1,17285,19
+2,817,39,Company Invited,1,Salaried,Male,3,3,4,Unmarried,0,2,1,0,21782,21
+3,2830,31,Company Invited,1,Large Business,Male,3,4,3,Single,1,4,1,2,20963,20
+4,3261,40,Company Invited,1,Salaried,Male,4,4,4,Unmarried,0,2,1,1,25460,22
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,S/N,Column Name,Variable Type,,,,,,,,,,,,
+,,1,Age,Discrete,,,,,,,,,,,,
+,,2,Type of Contact,Nominal,,,,,,,,,,,,
+,,3,City Tier,Ordinal,,,,,,,,,,,,
+,,4,Occupation,Nominal,,,,,,,,,,,,
+,,5,Gender,Nominal,,,,,,,,,,,,
+,,6,Number Of Person Visiting,Discrete,,,,,,,,,,,,
+,,7,Number Of Follow-ups,Discrete,,,,,,,,,,,,
+,,8,Preferred Property Star,Ordinal,,,,,,,,,,,,
+,,9,Marital Status,Nominal,,,,,,,,,,,,
+,,10,Passport,Nominal,,,,,,,,,,,,
+,,11,PitchSatisfactionScore,Ordinal,,,,,,,,,,,,
+,,12,Own Car,Nominal,,,,,,,,,,,,
+,,13,Number Of Children Visiting,Discrete,,,,,,,,,,,,
+,,14,Income,Continuous,,,,,,,,,,,,
+,,15,Number Of Trips,Discrete ,,,,,,,,,,,,
