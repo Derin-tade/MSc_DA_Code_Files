@@ -1,3 +1,4 @@
+/*
 SELECT * FROM ClubCoachDim ccd;
 SELECT * FROM CoachDim cd;
 SELECT * FROM AwardDim ad;
@@ -93,7 +94,7 @@ SELECT count (DISTINCT championID) FROM PlayerInGameDim pigd;
 
 
 
-
+*/
 
 
 
